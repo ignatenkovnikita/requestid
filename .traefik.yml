@@ -1,0 +1,9 @@
+displayName: X-Request-Id
+type: middleware
+
+import: github.com/ignatenkovnikita/requestid
+
+summary: 'Add X-Request-Id Header'
+
+testData:
+  HeaderName: X-Request-Id
